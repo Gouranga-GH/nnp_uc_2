@@ -1,4 +1,4 @@
-# Basic Neural Networks Projects
+# Neural Networks Projects
 
 ## Problem Statement
 
@@ -52,38 +52,4 @@ The SVHN dataset contains images of digits obtained from house numbers in Google
   - Plot training/validation loss and accuracy across epochs.
   - Provide observations and insights based on the model's performance.
 
-## Steps and Tasks
 
-### Part I: Regression Task
-1. Import the dataset and explore its structure.
-2. Perform detailed data analysis and visualize the results.
-3. Build, train, and tune a neural network regressor.
-4. Save the model for future use.
-
-### Part II: Image Classification Task
-1. Import the SVHN dataset and perform data exploration.
-2. Pre-process the dataset and perform relevant visualizations.
-3. Build, train, and tune a neural network classifier.
-4. Evaluate the model by plotting loss and accuracy metrics.
-
-## Learning Outcomes
-
-By completing this project, you will:
-1. Gain hands-on experience in designing, training, and tuning neural networks for both regression and classification tasks.
-2. Learn how to handle real-world datasets, perform data preprocessing, and extract meaningful insights.
-3. Develop the ability to build neural network models to solve industry-level problems.
-4. Understand how to evaluate and improve model performance through experimentation and refinement.
-
-## Deliverables
-- Submit a single `.html` and `.ipynb` file that contains the complete project implementation.
-- The notebook should include all code cells executed with outputs intact, and it should be machine-independent, allowing it to run on any system without additional code.
-- Ensure the project is original and adheres to the best practices of data science, including:
-  - Well-commented code explaining the approach and assumptions.
-  - Insightful analysis and clear explanations of results.
-
-## Best Practices
-1. Ensure your submission is error-free and runs seamlessly.
-2. Use well-commented code to enhance readability.
-3. Experiment with different models, data transformations, and feature engineering techniques to derive the best results.
-
-Happy learning!
